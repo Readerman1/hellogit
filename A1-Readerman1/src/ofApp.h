@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-
+#incluce "rule.h"
 class ofApp : public ofBaseApp{
 
 	public:
